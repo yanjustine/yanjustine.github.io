@@ -1,0 +1,21 @@
+h1 {
+	color: red;
+}
+
+body {
+	min-width: 800px;
+}
+
+.container {
+	margin: 40px 0px 0px 0px;
+	width: 100%;
+}
+
+.col {
+	float: left;
+	width: 49%;
+}
+
+p {
+	margin-left: 20px;
+}
