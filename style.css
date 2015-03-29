@@ -1,13 +1,21 @@
-h1 {
-	color: red;
+@font-face {
+font-family: AkzidBold;
+src: url("AkzidGroCFFBol.otf") format("opentype");
 }
 
+@font-face {
+font-family: DINPro;
+src: url("DINPro-Bold.otf") format("opentype");
+}
+
+
 body {
+	font-family: DINPro;
 	min-width: 800px;
 }
 
 .container {
-	margin: 40px 0px 0px 0px;
+	margin: 30px 0px 0px 0px;
 	width: 100%;
 }
 
@@ -16,6 +24,10 @@ body {
 	width: 49%;
 }
 
+h1 {
+	margin-left: 40px;
+}
+
 p {
-	margin-left: 20px;
+	margin-left: 40px;
 }
