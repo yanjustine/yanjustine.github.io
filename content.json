@@ -121,45 +121,118 @@ var content = {
 		"Arch Study I": [
 			{
 					"type": "image",
-					"src": "https://36.media.tumblr.com/3ab111b83f43ad099b1867e8f684b556/tumblr_nm09oseEq61urakpmo2_1280.jpg",
-					"caption": ""
+					"src": "http://36.media.tumblr.com/ebc19cb9b176a37c9126d58497c8a465/tumblr_nm09oseEq61urakpmo1_540.jpg",
+					"caption": "Test Caption 2015"
 				},
 				{
 					"type": "image",
-					"src": "https://36.media.tumblr.com/d960ea61f2c390d7dce1e012edbf120c/tumblr_nm09oseEq61urakpmo3_1280.jpg",
-					"caption": ""
+					"src": "http://41.media.tumblr.com/3ab111b83f43ad099b1867e8f684b556/tumblr_nm09oseEq61urakpmo2_250.jpg",
+					"caption": "Test"
 				},
 				{
 					"type": "image",
-					"src": "https://41.media.tumblr.com/7b4f67d78ca56fd011ec544555aeaed2/tumblr_nm09oseEq61urakpmo4_1280.jpg",
-					"caption": ""
+					"src": "http://41.media.tumblr.com/d960ea61f2c390d7dce1e012edbf120c/tumblr_nm09oseEq61urakpmo3_250.jpg",
+					"caption": "Test"
 				},
 				{
 					"type": "image",
-					"src": "https://40.media.tumblr.com/ebc19cb9b176a37c9126d58497c8a465/tumblr_nm09oseEq61urakpmo1_1280.jpg",
-					"caption": ""
+					"src": "http://41.media.tumblr.com/d960ea61f2c390d7dce1e012edbf120c/tumblr_nm09oseEq61urakpmo3_250.jpg",
+					"caption": "Test"
 				},
 				
 			],
-		"Line Studies": [],
-		"Figures": [],
+		"Line Studies": [
+			{
+				"type": "image",
+				"src":"https://40.media.tumblr.com/566f29497c5051d01f20378fbe77240c/tumblr_nm0ae8i2Zb1urakpmo7_1280.jpg",
+				"caption":"Brush 1"
+			},
+			{
+				"type": "image",
+				"src":"https://40.media.tumblr.com/76a9287269a1c3414ef9d636910213af/tumblr_nm0ae8i2Zb1urakpmo8_1280.jpg",
+				"caption":"Brush 2"
+			},
+			{
+				"type": "image",
+				"src":"https://41.media.tumblr.com/9264ffeef5eebd9b0d0ae6524d2c8219/tumblr_nm0ae8i2Zb1urakpmo9_1280.jpg",
+				"caption":"Texture 1"
+			},
+			{
+				"type": "image",
+				"src":"https://40.media.tumblr.com/0f8026d6560e3ac04e4fc1d27029e7f7/tumblr_nm0ae8i2Zb1urakpmo10_1280.jpg",
+				"caption":"Texture 2"
+			},
+			{
+				"type": "image",
+				"src":"http://40.media.tumblr.com/d7dafb53f3a275fb4ad6033e5b587809/tumblr_nm0agaJQdH1urakpmo1_1280.jpg",
+				"caption":"Texture 3"
+			},
+			{
+				"type": "image",
+				"src":"https://40.media.tumblr.com/ae54b1286f1f2bb3194a208ab0eaf4c5/tumblr_nm0ae8i2Zb1urakpmo6_1280.jpg",
+				"caption":"Texture 4"
+			},
+			{
+				"type": "image",
+				"src":"https://36.media.tumblr.com/c219a37c9fdd21a2ba8b1c04a1aed644/tumblr_nm0ae8i2Zb1urakpmo5_1280.jpg",
+				"caption":"Texture 5"
+			},
+			{
+				"type": "image",
+				"src":"https://41.media.tumblr.com/c41e02a16404f2b5b01de31ac5371085/tumblr_nm0ae8i2Zb1urakpmo4_1280.jpg",
+				"caption":"Texture 6"
+			},
+			{
+				"type": "image",
+				"src":"https://40.media.tumblr.com/c2bbc26b4f93685c12a40df93f0a303c/tumblr_nm0ae8i2Zb1urakpmo1_1280.jpg",
+				"caption":"Motion 1"
+			},
+			{
+				"type": "image",
+				"src":"https://40.media.tumblr.com/61fc499239b952d159d5719ab78a398f/tumblr_nm0ae8i2Zb1urakpmo2_1280.jpg",
+				"caption":"Motion 2"
+			},
+			{
+				"type": "image",
+				"src":"https://40.media.tumblr.com/7ce5519c1df7bc15feac51bcb7e9404b/tumblr_nm0ae8i2Zb1urakpmo3_1280.jpg",
+				"caption":"Motion 3"
+			},
+			{
+				"type": "image",
+				"src":"http://40.media.tumblr.com/6305caef5cb0a19e8f61cb3260fe1f05/tumblr_nm0ntfvR0p1urakpmo1_1280.jpg",
+				"caption":"X-Ray"
+			},
+			],
+		"Figures": [
+			{
+				"type": "image",
+				"src":"https://41.media.tumblr.com/03ca012beb18bc591163d776ca38750e/tumblr_nm0nxif0VY1urakpmo2_1280.jpg",
+				"caption":"Nai Nai 1"
+			},
+			{
+				"type": "image",
+				"src":"https://40.media.tumblr.com/818327d13c53272bc10a3753e354c1c3/tumblr_nm0nxif0VY1urakpmo3_1280.jpg",
+				"caption":"Nai Nai 2"
+			},
+			
+			],
 		"Guangzhou Water": [
 				{
 					"type": "video",
 					"src": "https://www.youtube.com/embed/C88i1RjgY8U",
-					"caption": "Test"
+					"caption": ""
 				},
 			],
 		"Styles": [
 				{
 					"type": "image",
 					"src": "http://40.media.tumblr.com/636a0a1cea9a8c181e5049e810762e01/tumblr_nm0ailpL9d1urakpmo1_540.jpg",
-					"caption": "Test"
+					"caption": "Whites"
 				},
 				{
 					"type": "image",
 					"src": "http://41.media.tumblr.com/bc0bc319415932a1e879d53da142eb29/tumblr_nm0ailpL9d1urakpmo2_540.jpg",
-					"caption": "Test"
+					"caption": "Urban Outfitters Sunset"
 				},
 			],
 		"Arch Study II": [],
