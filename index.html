@@ -1,24 +1,36 @@
-<!doctype hmtl>
+<!doctype html>
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="style.css">
 	<title>Justine Yan</title>
+	<link rel="stylesheet" type="text/css" href="assets/style.css">
+	<script src="assets/jquery-1.11.2.min.js"></script>
+	<script src="content.json"></script>
+	<script src="assets/app.js"></script>
+
 </head>
+
 <body>
-	<img src="tl.png" height="30px" style="position: absolute; left: 0px; top: 0px;">
-	<img src="tm.png" height="20px" style="position: absolute; left: 49%; top: 0px;">
-	<img src="tr.png" height="30px"  style="position: absolute; right: 0px; top: 0px;">
-	<img src="ml.png" width="20px"  style="position: absolute; left: 0px; top: 50%;">
-	<img src="mr.png" width="20px"  style="position: absolute; right: 0px; top: 50%;">
-	<img src="bl.png" height="30px" style="position: absolute; left: 0px; bottom: 0px;">
-	<img src="bm.png" height="20px" style="position: absolute; left: 49%; bottom: 0px;">
-	<img src="br.png" height="30px"  style="position: absolute; right: 0px; bottom: 0px;">
+		<img src="assets/tl.png" height="30px" style="position: absolute; left: 0px; top: 0px;">
+	<img src="assets/tm.png" height="20px" style="position: absolute; left: 49%; top: 0px;">
+	<img src="assets/tr.png" height="30px" style="position: absolute; right: 0px; top: 0px;">
+	<img src="assets/ml.png" width="20px"  style="position: absolute; left: 0px; top: 50%;">
+	<img src="assets/mr.png" width="20px"  style="position: absolute; right: 0px; top: 50%;">
+	<img src="assets/bl.png" height="30px" style="position: absolute; left: 0px; bottom: 0px;">
+	<img src="assets/bm.png" height="20px" style="position: absolute; left: 49%; bottom: 0px;">
+	<img src="assets/br.png" height="30px" style="position: absolute; right: 0px; bottom: 0px;">
+
 	<div class="container">
 		<div class="col">
-			<h1>Justine Yan</h1>
+			<h1><a href="#">Justine Yan</a></h1>
+			<br>
+			<div id="left" class="links">
+			</div>
 		</div>
 		<div class="col">
-			<p>Right</p>
+			<h1>&nbsp;</h1>
+			<br>
+			<div id="right" class="links">
+			</div>		
 		</div>
 	</div>
 </body>

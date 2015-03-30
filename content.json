@@ -1,0 +1,23 @@
+var content = {
+	"left":{
+		"House": {},
+		"Birthday": {},
+		"Poem in which my mother is not the woman": {},
+		"Thyroidism": {},
+		"18": {},
+		"Wisconsin": {},
+		"International House of Pancakes": {},
+		"Hong Kong Tropes":{}
+
+	},
+	"right":{
+		"Iceland": {},
+		"Arch Study I": {},
+		"Line Studies": {},
+		"Figures": {},
+		"Guangzhou Water": {},
+		"Styles": {},
+		"Arch Study II": {},
+		"China, etc.": {}
+	}
+}

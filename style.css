@@ -12,6 +12,7 @@ src: url("DINPro-Bold.otf") format("opentype");
 body {
 	font-family: DINPro;
 	min-width: 800px;
+	min-height: 800px;
 }
 
 .container {
@@ -22,6 +23,7 @@ body {
 .col {
 	float: left;
 	width: 49%;
+	padding: 40px 40px 40px 40px;
 }
 
 h1 {
