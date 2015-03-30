@@ -23,12 +23,12 @@ var content = {
 		"Poem in which my mother is not the woman": [
 				{
 					"type": "image",
-					"src": https://40.media.tumblr.com/bc23af46ee3fe58e9c9d7f120305ee9d/tumblr_nm09m8khCM1urakpmo1_540.jpg
+					"src": "https://40.media.tumblr.com/bc23af46ee3fe58e9c9d7f120305ee9d/tumblr_nm09m8khCM1urakpmo1_540.jpg",
 					"caption": pg. 1
 				},
 				{
 					"type": "image",
-					"src": https://36.media.tumblr.com/790d7bd6e43b538f21fdd72bcfb82d85/tumblr_nm09m8khCM1urakpmo2_540.jpg
+					"src": "https://36.media.tumblr.com/790d7bd6e43b538f21fdd72bcfb82d85/tumblr_nm09m8khCM1urakpmo2_540.jpg",
 					"caption": pg. 2
 				},
 			],
