@@ -118,26 +118,36 @@ var content = {
 					"caption": ""
 				},
 			],
-		"Arch Study I": [
+		"Arch Studies": [
 			{
 					"type": "image",
 					"src": "https://36.media.tumblr.com/3ab111b83f43ad099b1867e8f684b556/tumblr_nm09oseEq61urakpmo2_1280.jpg",
-					"caption": ""
+					"caption": "Model based on a Dior Dress"
 				},
 				{
 					"type": "image",
 					"src": "https://36.media.tumblr.com/d960ea61f2c390d7dce1e012edbf120c/tumblr_nm09oseEq61urakpmo3_1280.jpg",
-					"caption": ""
+					"caption": "Model based on a Dior Dress"
 				},
 				{
 					"type": "image",
 					"src": "https://41.media.tumblr.com/7b4f67d78ca56fd011ec544555aeaed2/tumblr_nm09oseEq61urakpmo4_1280.jpg",
-					"caption": ""
+					"caption": "Model based on a Dior Dress"
 				},
 				{
 					"type": "image",
 					"src": "https://40.media.tumblr.com/ebc19cb9b176a37c9126d58497c8a465/tumblr_nm09oseEq61urakpmo1_1280.jpg",
-					"caption": ""
+					"caption": "Model based on a Dior Dress"
+				},
+				{
+					"type": "image",
+					"src": "https://40.media.tumblr.com/9948152202b6c27a4ca0d1b586b4deac/tumblr_nm09qpIql41urakpmo1_1280.jpg",
+					"caption": "Void Model"
+				},
+				{
+					"type": "image",
+					"src": "https://36.media.tumblr.com/f7fe2a4c96e1943e0b67e8cff9b66de0/tumblr_nm09qpIql41urakpmo2_1280.jpg",
+					"caption": "Void Model"
 				},
 				
 			],
@@ -253,18 +263,7 @@ var content = {
 					"caption": "Urban Outfitters Sunset"
 				},
 			],
-		"Arch Study II": [
-				{
-					"type": "image",
-					"src": "https://40.media.tumblr.com/9948152202b6c27a4ca0d1b586b4deac/tumblr_nm09qpIql41urakpmo1_1280.jpg",
-					"caption": ""
-				},
-				{
-					"type": "image",
-					"src": "https://36.media.tumblr.com/f7fe2a4c96e1943e0b67e8cff9b66de0/tumblr_nm09qpIql41urakpmo2_1280.jpg",
-					"caption": ""
-				},
-			],
+		
 		"China, etc.": [
 				{
 					"type": "image",
