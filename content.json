@@ -82,11 +82,11 @@ var content = {
 					"src": "https://s3-us-west-2.amazonaws.com/ptsteadman/TROPES+FINAL+PDF+-+fixed2.pdf",
 					"caption": ""
 					},
-					{
-						"type": "image",
-						"src": "https://41.media.tumblr.com/c9b69c8866b636eae31bf2ec08cec1b0/tumblr_nm0n19829d1urakpmo1_540.jpg",
-						"caption": ""
-					},
+				{
+					"type": "image",
+					"src": "https://41.media.tumblr.com/c9b69c8866b636eae31bf2ec08cec1b0/tumblr_nm0n19829d1urakpmo1_540.jpg",
+					"caption": ""
+				},
 		]
 
 	},
