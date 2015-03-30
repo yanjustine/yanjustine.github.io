@@ -3,6 +3,11 @@ var content = {
 		"House": [
 				{
 					"type": "image",
+					"src": "http://40.media.tumblr.com/20cbe39fdb36fe99920ddfd0ec8a4e7f/tumblr_nm09ljUFos1urakpmo1_540.jpg",
+					"caption": "Test Caption 2015"
+				},
+				{
+					"type": "image",
 					"src": "http://41.media.tumblr.com/6d4b7c548e8aa39585d803960228238b/tumblr_nm09ljUFos1urakpmo2_540.jpg",
 					"caption": "Test Caption 2015"
 				},
