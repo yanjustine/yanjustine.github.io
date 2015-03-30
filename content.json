@@ -1,13 +1,19 @@
 var content = {
 	"left":{
-		"House": {},
-		"Birthday": {},
-		"Poem in which my mother is not the woman": {},
-		"Thyroidism": {},
-		"18": {},
-		"Wisconsin": {},
-		"International House of Pancakes": {},
-		"Hong Kong Tropes":{}
+		"House": [
+				{
+					"type": "image",
+					"src": "http://36.media.tumblr.com/e17d04ac7c85f64ffc1016cd322fbfa7/tumblr_nm09x8api81urakpmo4_540.jpg",
+					"caption": "Test Caption 2015"
+				},
+			],
+		"Birthday": [],
+		"Poem in which my mother is not the woman": [],
+		"Thyroidism": [],
+		"18": [],
+		"Wisconsin": [],
+		"International House of Pancakes": [],
+		"Hong Kong Tropes":[]
 
 	},
 	"right":{
