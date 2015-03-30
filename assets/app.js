@@ -20,11 +20,14 @@ $(document).ready(function(){
 			var type = content[side][title][index]["type"];
 			if(type == "video"){
 				project += "<iframe width='560' height='315' src='" + content[side][title][index]["src"]  + "?showinfo=0&modestbranding=1&vq=hd1080' frameborder='0' allowfullscreen></iframe>";
-			} else {
+				project += "<h5 class='caption'>" + content[side][title][index]["caption"] + "<h5>";
+			} else if (type == "image") {
 				// image
 				project += "<div class='image'><img src='" + content[side][title][index]["src"] + "'></div>";
+				project += "<h5 class='caption'>" + content[side][title][index]["caption"] + "<h5>";
+			} else if (type == "link"){
+				project += "<br><br><h5 style='font-style: italic;'><a target='_blank' href='" + content[side][title][index]["src"] + "'>Download PDF</a></h5>";
 			}
-			project += "<h5 class='caption'>" + content[side][title][index]["caption"] + "<h5>";
 			$("#" + side).html(project);
 			$("#" +side + "-back").click(function(){
 				app.showContents(side);
