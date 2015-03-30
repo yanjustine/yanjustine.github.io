@@ -19,7 +19,7 @@ $(document).ready(function(){
 			project += "<h4 class='project'>" + title+ "</h4>";
 			var type = content[side][title][index]["type"];
 			if(type == "video"){
-				project += "<iframe width='560' height='315' src='" + content[side][title][index]["src"]  + "?showinfo=0&modestbranding=1&vq=hd1080' frameborder='0' allowfullscreen></iframe>";
+				project += "<iframe width='560' height='315' src='" + content[side][title][index]["src"]  + "?showinfo=0&modestbranding=1&vq=hd720' frameborder='0' allowfullscreen></iframe>";
 				project += "<h5 class='caption'>" + content[side][title][index]["caption"] + "<h5>";
 			} else if (type == "image") {
 				// image
