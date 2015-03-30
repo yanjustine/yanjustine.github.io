@@ -7,6 +7,10 @@ $(document).ready(function(){
 			for(var title in content[side]){
 				$("#" + side).append("<h3><a class='title'>" + title + "</a></h3>");
 			}
+			$(".title").click(function(e){
+				var side = $(e.target).parent().parent().attr('id');
+				app.showProject(side, $(e.target).text(), 0);
+			});
 		},
 
 		showProject: function(side, title, index){
@@ -28,11 +32,6 @@ $(document).ready(function(){
 		init: function(){
 			app.showContents("left");
 			app.showContents("right");
-			$(".title").click(function(e){
-				var side = $(e.target).parent().parent().attr('id');
-				app.showProject(side, $(e.target).text(), 0);
-			});
-
 		}
 	};
 
