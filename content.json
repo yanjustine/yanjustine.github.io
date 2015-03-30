@@ -149,7 +149,6 @@ var content = {
 					"src": "https://36.media.tumblr.com/f7fe2a4c96e1943e0b67e8cff9b66de0/tumblr_nm09qpIql41urakpmo2_1280.jpg",
 					"caption": "Void Model"
 				},
-				
 			],
 		"Line Studies": [
 			{
@@ -224,7 +223,6 @@ var content = {
 				"src":"https://40.media.tumblr.com/818327d13c53272bc10a3753e354c1c3/tumblr_nm0nxif0VY1urakpmo3_1280.jpg",
 				"caption":"Nai Nai 2"
 			},
-			
 			],
 		"Guangzhou Air": [
 			{
@@ -242,7 +240,6 @@ var content = {
 				"src":"https://41.media.tumblr.com/44ae0f5b80c6d7bf2f084b972b4bfd19/tumblr_nm09twQJgI1urakpmo2_1280.jpg",
 				"caption":"Highrises"
 			},
-			
 			],
 		"Guangzhou Water": [
 				{
@@ -263,7 +260,6 @@ var content = {
 					"caption": "Urban Outfitters Sunset"
 				},
 			],
-		
 		"China, etc.": [
 				{
 					"type": "image",
@@ -315,9 +311,6 @@ var content = {
 					"src": "https://41.media.tumblr.com/9da8d88b81cc2b76ea43358c7c3590c3/tumblr_nm0omjDxZp1urakpmo7_1280.jpg",
 					"caption": ""
 				},
-				
-				
-				
 				
 			]
 	}
