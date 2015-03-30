@@ -32,28 +32,55 @@ var content = {
 					"caption": "page 2/2"
 				},
 			],
-		"Thyroidism": [],
+		"Thyroidism": [
+				{
+					"type": "image",
+					"src": "https://41.media.tumblr.com/378142b27e93797d19a7d43bac157df8/tumblr_nm09mixN361urakpmo1_540.jpg",
+					"caption": "page 1/2"
+				},
+				{
+					"type": "image",
+					"src": "https://41.media.tumblr.com/84acac2794ebf56d578fe50385e8a806/tumblr_nm09mixN361urakpmo2_540.jpg",
+					"caption": "page 2/2"
+				},
+			],
 		"18": [
 				{
 					"type": "image",
 					"src": "http://41.media.tumblr.com/28ab3b4ecec6776c64e47ed23dcf19a5/tumblr_nm09k3yl2T1urakpmo1_1280.jpg",
-					"caption": "Test Caption 2015"
+					"caption": "page 1/1"
 				},	
 			
 			],
-		"Wisconsin": [],
+		"Wisconsin": [
+				{
+					"type": "image",
+					"src": "https://40.media.tumblr.com/9cf6c45761a7a00e133f8499b1b0fec7/tumblr_nm0cjw7Aop1urakpmo1_540.jpg",
+					"caption": "page 1/3"
+				},
+				{
+					"type": "image",
+					"src": "https://41.media.tumblr.com/131c334e252900bf27faa4fae71e86e5/tumblr_nm0cjw7Aop1urakpmo2_1280.jpg",
+					"caption": "page 2/3""
+				},
+				{
+					"type": "image",
+					"src": "https://36.media.tumblr.com/eaaf8bb7d570f4f745113d5ba601c8d5/tumblr_nm0cjw7Aop1urakpmo3_1280.jpg",
+					"caption": "page 3/3"
+				},
+			],
 		"International House of Pancakes": [
 					{
 					"type": "image",
 					"src": "http://41.media.tumblr.com/e38c7a714d615acb03094ec3c7d83e70/tumblr_nm09lvvfhK1urakpmo1_1280.jpg",
-					"caption": "Test Caption 2015"
+					"caption": "page 1/1"
 					},
 			],
 		"Hong Kong Tropes":[
 					{
 					"type": "link",
 					"src": "https://s3-us-west-2.amazonaws.com/ptsteadman/TROPES+FINAL+PDF+-+fixed2.pdf",
-					"caption": "Test Caption 2015"
+					"caption": ""
 					},
 		]
 
@@ -63,27 +90,27 @@ var content = {
 				{
 					"type": "image",
 					"src": "http://36.media.tumblr.com/e17d04ac7c85f64ffc1016cd322fbfa7/tumblr_nm09x8api81urakpmo4_540.jpg",
-					"caption": "Test Caption 2015"
+					"caption": ""
 				},
 				{
 					"type": "image",
 					"src": "http://36.media.tumblr.com/a7c620bb58da273e7bc2ab28506c5cc7/tumblr_nm09x8api81urakpmo1_540.jpg",
-					"caption": "Test"
+					"caption": ""
 				},
 				{
 					"type": "image",
 					"src": "http://40.media.tumblr.com/8d27dba84135b3ceffa381deabf72e38/tumblr_nm09x8api81urakpmo2_540.jpg",
-					"caption": "Test"
+					"caption": ""
 				},
 				{
 					"type": "image",
 					"src": "http://40.media.tumblr.com/076532d1ace3f0e2bb5c2c9ad20ead4f/tumblr_nm09x8api81urakpmo3_540.jpg",
-					"caption": "Test"
+					"caption": ""
 				},
 				{
 					"type": "image",
 					"src": "http://40.media.tumblr.com/98a27105372c7be41379d742426aabb9/tumblr_nm09x8api81urakpmo5_540.jpg",
-					"caption": "Test"
+					"caption": ""
 				},
 			],
 		"Arch Study I": [
