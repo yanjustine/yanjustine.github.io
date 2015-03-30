@@ -38,12 +38,23 @@ var content = {
 					"caption": "Test"
 				},
 			],
-		"Arch Study I": {},
-		"Line Studies": {},
-		"Figures": {},
-		"Guangzhou Water": {},
-		"Styles": {},
-		"Arch Study II": {},
-		"China, etc.": {}
+		"Arch Study I": [],
+		"Line Studies": [],
+		"Figures": [],
+		"Guangzhou Water": [],
+		"Styles": [
+				{
+					"type": "image",
+					"src": "http://40.media.tumblr.com/636a0a1cea9a8c181e5049e810762e01/tumblr_nm0ailpL9d1urakpmo1_540.jpg",
+					"caption": "Test"
+				},
+				{
+					"type": "image",
+					"src": "http://41.media.tumblr.com/bc0bc319415932a1e879d53da142eb29/tumblr_nm0ailpL9d1urakpmo2_540.jpg",
+					"caption": "Test"
+				},
+			],
+		"Arch Study II": [],
+		"China, etc.": []
 	}
 }
