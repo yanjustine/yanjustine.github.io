@@ -44,7 +44,33 @@ var content = {
 					"caption": "Test"
 				},
 			],
-		"Arch Study I": [],
+		"Arch Study I": [
+			{
+					"type": "image",
+					"src": "http://36.media.tumblr.com/ebc19cb9b176a37c9126d58497c8a465/tumblr_nm09oseEq61urakpmo1_540.jpg",
+					"caption": "Test Caption 2015"
+				},
+				{
+					"type": "image",
+					"src": "http://41.media.tumblr.com/3ab111b83f43ad099b1867e8f684b556/tumblr_nm09oseEq61urakpmo2_250.jpg",
+					"caption": "Test"
+				},
+				{
+					"type": "image",
+					"src": "http://41.media.tumblr.com/d960ea61f2c390d7dce1e012edbf120c/tumblr_nm09oseEq61urakpmo3_250.jpg",
+					"caption": "Test"
+				},
+				{
+					"type": "image",
+					"src": "http://41.media.tumblr.com/d960ea61f2c390d7dce1e012edbf120c/tumblr_nm09oseEq61urakpmo3_250.jpg",
+					"caption": "Test"
+				},
+				{
+					"type": "image",
+					"src": "http://40.media.tumblr.com/7b4f67d78ca56fd011ec544555aeaed2/tumblr_nm09oseEq61urakpmo4_250.jpg",
+					"caption": "Test"
+				},
+			],
 		"Line Studies": [],
 		"Figures": [],
 		"Guangzhou Water": [
