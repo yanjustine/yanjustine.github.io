@@ -17,11 +17,11 @@ $(document).ready(function(){
 			var project = "";
 			project += "<h5 id='" + side + "-back'><a>Back</a></h5>";
 			project += "<h4 class='project'>" + title+ "</h4>";
-			project += "<img class='image' src='" + content[side][title][index]["src"] + "'>";
+			project += "<div class='image'><img src='" + content[side][title][index]["src"] + "'></div>";
 			project += "<h5 class='caption'>" + content[side][title][index]["caption"] + "<h5>";
 			$("#" + side).html(project);
-			$(".image").click(function(e){
-				var side = $(e.target).parent().attr('id');
+			$(".image img").click(function(e){
+				var side = $(e.target).parent().parent().attr('id');
 				app.showProject(side, title, (index + 1) % content[side][title].length);
 			});
 			$("#" +side + "-back").click(function(){
