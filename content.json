@@ -216,6 +216,24 @@ var content = {
 			},
 			
 			],
+		"Guangzhou Air": [
+			{
+				"type": "image",
+				"src":"https://41.media.tumblr.com/9443d196c9acbab4be326fec321af88e/tumblr_nm09twQJgI1urakpmo3_1280.jpg",
+				"caption":"Pagoda"
+			},
+			{
+				"type": "image",
+				"src":"https://40.media.tumblr.com/160acb3b91963ededf9b76268a0eb85b/tumblr_nm09twQJgI1urakpmo1_1280.jpg",
+				"caption":"Highway"
+			},
+			{
+				"type": "image",
+				"src":"https://41.media.tumblr.com/44ae0f5b80c6d7bf2f084b972b4bfd19/tumblr_nm09twQJgI1urakpmo2_1280.jpg",
+				"caption":"Highrises"
+			},
+			
+			],
 		"Guangzhou Water": [
 				{
 					"type": "video",
