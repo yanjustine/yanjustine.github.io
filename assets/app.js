@@ -23,6 +23,10 @@ $(document).ready(function(){
 			} else {
 				// image
 				project += "<div class='image'><img src='" + content[side][title][index]["src"] + "'></div>";
+				$(".image img").click(function(e){
+					var side = $(e.target).parent().parent().attr('id');
+					app.showProject(side, title, (index + 1) % content[side][title].length);
+				});
 			}
 			project += "<h5 class='caption'>" + content[side][title][index]["caption"] + "<h5>";
 			$("#" + side).html(project);
