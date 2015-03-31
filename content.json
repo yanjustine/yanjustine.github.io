@@ -4,46 +4,89 @@ var content = {
 				{
 					"type": "image",
 					"src": "http://40.media.tumblr.com/20cbe39fdb36fe99920ddfd0ec8a4e7f/tumblr_nm09ljUFos1urakpmo1_540.jpg",
-					"caption": "Test Caption 2015"
+					"caption": "page 1/2"
 				},
 				{
 					"type": "image",
 					"src": "http://41.media.tumblr.com/6d4b7c548e8aa39585d803960228238b/tumblr_nm09ljUFos1urakpmo2_540.jpg",
-					"caption": "Test Caption 2015"
+					"caption": "page 2/2"
 				},
 			],
 		"Birthday": [			
 				{
 					"type": "image",
 					"src": "http://40.media.tumblr.com/cb7221c9c4b1f4d4165da702e48b1651/tumblr_nm09kx6gNJ1urakpmo1_1280.jpg",
-					"caption": "Test Caption 2015"
+					"caption": "page 1/1"
 				},
 			
 			],
-		"Poem in which my mother is not the woman": [],
-		"Thyroidism": [],
+		"Poem in which my mother is not the woman": [
+				{
+					"type": "image",
+					"src": "https://40.media.tumblr.com/bc23af46ee3fe58e9c9d7f120305ee9d/tumblr_nm09m8khCM1urakpmo1_540.jpg",
+					"caption": "page 1/2"
+				},
+				{
+					"type": "image",
+					"src": "https://36.media.tumblr.com/790d7bd6e43b538f21fdd72bcfb82d85/tumblr_nm09m8khCM1urakpmo2_540.jpg",
+					"caption": "page 2/2"
+				},
+			],
+		"Thyroidism": [
+				{
+					"type": "image",
+					"src": "https://41.media.tumblr.com/378142b27e93797d19a7d43bac157df8/tumblr_nm09mixN361urakpmo1_540.jpg",
+					"caption": "page 1/2"
+				},
+				{
+					"type": "image",
+					"src": "https://41.media.tumblr.com/84acac2794ebf56d578fe50385e8a806/tumblr_nm09mixN361urakpmo2_540.jpg",
+					"caption": "page 2/2"
+				},
+			],
 		"18": [
 				{
 					"type": "image",
 					"src": "http://41.media.tumblr.com/28ab3b4ecec6776c64e47ed23dcf19a5/tumblr_nm09k3yl2T1urakpmo1_1280.jpg",
-					"caption": "Test Caption 2015"
+					"caption": "page 1/1"
 				},	
 			
 			],
-		"Wisconsin": [],
+		"Wisconsin": [
+				{
+					"type": "image",
+					"src": "https://40.media.tumblr.com/9cf6c45761a7a00e133f8499b1b0fec7/tumblr_nm0cjw7Aop1urakpmo1_540.jpg",
+					"caption": "page 1/3"
+				},
+				{
+					"type": "image",
+					"src": "https://41.media.tumblr.com/131c334e252900bf27faa4fae71e86e5/tumblr_nm0cjw7Aop1urakpmo2_1280.jpg", 
+					"caption": "page 2/3"
+				},
+				{
+					"type": "image",
+					"src": "https://36.media.tumblr.com/eaaf8bb7d570f4f745113d5ba601c8d5/tumblr_nm0cjw7Aop1urakpmo3_1280.jpg",
+					"caption": "page 3/3"
+				},
+			],
 		"International House of Pancakes": [
 					{
 					"type": "image",
 					"src": "http://41.media.tumblr.com/e38c7a714d615acb03094ec3c7d83e70/tumblr_nm09lvvfhK1urakpmo1_1280.jpg",
-					"caption": "Test Caption 2015"
+					"caption": "page 1/1"
 					},
 			],
 		"Hong Kong Tropes":[
 					{
 					"type": "link",
 					"src": "https://s3-us-west-2.amazonaws.com/ptsteadman/TROPES+FINAL+PDF+-+fixed2.pdf",
-					"caption": "Test Caption 2015"
+					"caption": ""
 					},
+				{
+					"type": "image",
+					"src": "https://41.media.tumblr.com/c9b69c8866b636eae31bf2ec08cec1b0/tumblr_nm0n19829d1urakpmo1_540.jpg",
+					"caption": ""
+				},
 		]
 
 	},
@@ -52,78 +95,222 @@ var content = {
 				{
 					"type": "image",
 					"src": "http://36.media.tumblr.com/e17d04ac7c85f64ffc1016cd322fbfa7/tumblr_nm09x8api81urakpmo4_540.jpg",
-					"caption": "Test Caption 2015"
+					"caption": ""
 				},
 				{
 					"type": "image",
 					"src": "http://36.media.tumblr.com/a7c620bb58da273e7bc2ab28506c5cc7/tumblr_nm09x8api81urakpmo1_540.jpg",
-					"caption": "Test"
+					"caption": ""
 				},
 				{
 					"type": "image",
 					"src": "http://40.media.tumblr.com/8d27dba84135b3ceffa381deabf72e38/tumblr_nm09x8api81urakpmo2_540.jpg",
-					"caption": "Test"
+					"caption": ""
 				},
 				{
 					"type": "image",
 					"src": "http://40.media.tumblr.com/076532d1ace3f0e2bb5c2c9ad20ead4f/tumblr_nm09x8api81urakpmo3_540.jpg",
-					"caption": "Test"
+					"caption": ""
 				},
 				{
 					"type": "image",
 					"src": "http://40.media.tumblr.com/98a27105372c7be41379d742426aabb9/tumblr_nm09x8api81urakpmo5_540.jpg",
-					"caption": "Test"
+					"caption": ""
 				},
 			],
-		"Arch Study I": [
+		"Arch Studies": [
 			{
 					"type": "image",
-					"src": "http://36.media.tumblr.com/ebc19cb9b176a37c9126d58497c8a465/tumblr_nm09oseEq61urakpmo1_540.jpg",
-					"caption": "Test Caption 2015"
+					"src": "https://36.media.tumblr.com/3ab111b83f43ad099b1867e8f684b556/tumblr_nm09oseEq61urakpmo2_1280.jpg",
+					"caption": "Model based on a Dior Dress"
 				},
 				{
 					"type": "image",
-					"src": "http://41.media.tumblr.com/3ab111b83f43ad099b1867e8f684b556/tumblr_nm09oseEq61urakpmo2_250.jpg",
-					"caption": "Test"
+					"src": "https://36.media.tumblr.com/d960ea61f2c390d7dce1e012edbf120c/tumblr_nm09oseEq61urakpmo3_1280.jpg",
+					"caption": "Model based on a Dior Dress"
 				},
 				{
 					"type": "image",
-					"src": "http://41.media.tumblr.com/d960ea61f2c390d7dce1e012edbf120c/tumblr_nm09oseEq61urakpmo3_250.jpg",
-					"caption": "Test"
+					"src": "https://41.media.tumblr.com/7b4f67d78ca56fd011ec544555aeaed2/tumblr_nm09oseEq61urakpmo4_1280.jpg",
+					"caption": "Model based on a Dior Dress"
 				},
 				{
 					"type": "image",
-					"src": "http://41.media.tumblr.com/d960ea61f2c390d7dce1e012edbf120c/tumblr_nm09oseEq61urakpmo3_250.jpg",
-					"caption": "Test"
+					"src": "https://40.media.tumblr.com/ebc19cb9b176a37c9126d58497c8a465/tumblr_nm09oseEq61urakpmo1_1280.jpg",
+					"caption": "Model based on a Dior Dress"
 				},
 				{
 					"type": "image",
-					"src": "http://40.media.tumblr.com/7b4f67d78ca56fd011ec544555aeaed2/tumblr_nm09oseEq61urakpmo4_250.jpg",
-					"caption": "Test"
+					"src": "https://40.media.tumblr.com/9948152202b6c27a4ca0d1b586b4deac/tumblr_nm09qpIql41urakpmo1_1280.jpg",
+					"caption": "Void Model"
+				},
+				{
+					"type": "image",
+					"src": "https://36.media.tumblr.com/f7fe2a4c96e1943e0b67e8cff9b66de0/tumblr_nm09qpIql41urakpmo2_1280.jpg",
+					"caption": "Void Model"
 				},
 			],
-		"Line Studies": [],
-		"Figures": [],
+		"Line Studies": [
+			{
+				"type": "image",
+				"src":"https://40.media.tumblr.com/566f29497c5051d01f20378fbe77240c/tumblr_nm0ae8i2Zb1urakpmo7_1280.jpg",
+				"caption":"Brush 1"
+			},
+			{
+				"type": "image",
+				"src":"https://40.media.tumblr.com/76a9287269a1c3414ef9d636910213af/tumblr_nm0ae8i2Zb1urakpmo8_1280.jpg",
+				"caption":"Brush 2"
+			},
+			{
+				"type": "image",
+				"src":"https://41.media.tumblr.com/9264ffeef5eebd9b0d0ae6524d2c8219/tumblr_nm0ae8i2Zb1urakpmo9_1280.jpg",
+				"caption":"Texture 1"
+			},
+			{
+				"type": "image",
+				"src":"https://40.media.tumblr.com/0f8026d6560e3ac04e4fc1d27029e7f7/tumblr_nm0ae8i2Zb1urakpmo10_1280.jpg",
+				"caption":"Texture 2"
+			},
+			{
+				"type": "image",
+				"src":"http://40.media.tumblr.com/d7dafb53f3a275fb4ad6033e5b587809/tumblr_nm0agaJQdH1urakpmo1_1280.jpg",
+				"caption":"Texture 3"
+			},
+			{
+				"type": "image",
+				"src":"https://40.media.tumblr.com/ae54b1286f1f2bb3194a208ab0eaf4c5/tumblr_nm0ae8i2Zb1urakpmo6_1280.jpg",
+				"caption":"Texture 4"
+			},
+			{
+				"type": "image",
+				"src":"https://36.media.tumblr.com/c219a37c9fdd21a2ba8b1c04a1aed644/tumblr_nm0ae8i2Zb1urakpmo5_1280.jpg",
+				"caption":"Texture 5"
+			},
+			{
+				"type": "image",
+				"src":"https://41.media.tumblr.com/c41e02a16404f2b5b01de31ac5371085/tumblr_nm0ae8i2Zb1urakpmo4_1280.jpg",
+				"caption":"Texture 6"
+			},
+			{
+				"type": "image",
+				"src":"https://40.media.tumblr.com/c2bbc26b4f93685c12a40df93f0a303c/tumblr_nm0ae8i2Zb1urakpmo1_1280.jpg",
+				"caption":"Motion 1"
+			},
+			{
+				"type": "image",
+				"src":"https://40.media.tumblr.com/61fc499239b952d159d5719ab78a398f/tumblr_nm0ae8i2Zb1urakpmo2_1280.jpg",
+				"caption":"Motion 2"
+			},
+			{
+				"type": "image",
+				"src":"https://40.media.tumblr.com/7ce5519c1df7bc15feac51bcb7e9404b/tumblr_nm0ae8i2Zb1urakpmo3_1280.jpg",
+				"caption":"Motion 3"
+			},
+			{
+				"type": "image",
+				"src":"http://40.media.tumblr.com/6305caef5cb0a19e8f61cb3260fe1f05/tumblr_nm0ntfvR0p1urakpmo1_1280.jpg",
+				"caption":"X-Ray"
+			},
+			],
+		"Figures": [
+			{
+				"type": "image",
+				"src":"https://41.media.tumblr.com/03ca012beb18bc591163d776ca38750e/tumblr_nm0nxif0VY1urakpmo2_1280.jpg",
+				"caption":"Nai Nai 1"
+			},
+			{
+				"type": "image",
+				"src":"https://40.media.tumblr.com/818327d13c53272bc10a3753e354c1c3/tumblr_nm0nxif0VY1urakpmo3_1280.jpg",
+				"caption":"Nai Nai 2"
+			},
+			],
+		"Guangzhou Air": [
+			{
+				"type": "image",
+				"src":"https://41.media.tumblr.com/9443d196c9acbab4be326fec321af88e/tumblr_nm09twQJgI1urakpmo3_1280.jpg",
+				"caption":"Pagoda"
+			},
+			{
+				"type": "image",
+				"src":"https://40.media.tumblr.com/160acb3b91963ededf9b76268a0eb85b/tumblr_nm09twQJgI1urakpmo1_1280.jpg",
+				"caption":"Highway"
+			},
+			{
+				"type": "image",
+				"src":"https://41.media.tumblr.com/44ae0f5b80c6d7bf2f084b972b4bfd19/tumblr_nm09twQJgI1urakpmo2_1280.jpg",
+				"caption":"Highrises"
+			},
+			],
 		"Guangzhou Water": [
 				{
 					"type": "video",
 					"src": "https://www.youtube.com/embed/C88i1RjgY8U",
-					"caption": "Test"
+					"caption": ""
 				},
 			],
 		"Styles": [
 				{
 					"type": "image",
 					"src": "http://40.media.tumblr.com/636a0a1cea9a8c181e5049e810762e01/tumblr_nm0ailpL9d1urakpmo1_540.jpg",
-					"caption": "Test"
+					"caption": "Whites"
 				},
 				{
 					"type": "image",
 					"src": "http://41.media.tumblr.com/bc0bc319415932a1e879d53da142eb29/tumblr_nm0ailpL9d1urakpmo2_540.jpg",
-					"caption": "Test"
+					"caption": "Urban Outfitters Sunset"
 				},
 			],
-		"Arch Study II": [],
-		"China, etc.": []
+		"China, etc.": [
+				{
+					"type": "image",
+					"src": "https://41.media.tumblr.com/cecf057efdaeee45f5fc780d6d83c92c/tumblr_nm0otfJQqV1urakpmo3_1280.jpg",
+					"caption": ""
+				},
+				{
+					"type": "image",
+					"src": "https://41.media.tumblr.com/e225f258ddaa7659afb20a9b614383e1/tumblr_nm0otfJQqV1urakpmo1_1280.jpg",
+					"caption": ""
+				},
+				{
+					"type": "image",
+					"src": "https://41.media.tumblr.com/511085684f46ffae64bfbebfe6c5a6f2/tumblr_nm0otfJQqV1urakpmo2_1280.jpg",
+					"caption": ""
+				},
+				{
+					"type": "image",
+					"src": "https://41.media.tumblr.com/85afe839e9d8a747efd52c5855bb8d3d/tumblr_nm0omjDxZp1urakpmo1_1280.jpg",
+					"caption": ""
+				},
+				{
+					"type": "image",
+					"src": "https://40.media.tumblr.com/973fab7ea057999c40db37bf0b81484b/tumblr_nm0omjDxZp1urakpmo2_1280.jpg",
+					"caption": ""
+				},
+				{
+					"type": "image",
+					"src": "https://40.media.tumblr.com/55937a54fdd2fc799a391b4e6a9f927a/tumblr_nm0omjDxZp1urakpmo3_1280.jpg",
+					"caption": ""
+				},
+				{
+					"type": "image",
+					"src": "https://40.media.tumblr.com/dfcef209ef1a040a20fe03bc4117877f/tumblr_nm0omjDxZp1urakpmo4_1280.jpg",
+					"caption": ""
+				},
+				{
+					"type": "image",
+					"src": "https://41.media.tumblr.com/441191bd91aa6504489ce193a941e5cf/tumblr_nm0omjDxZp1urakpmo5_1280.jpg",
+					"caption": ""
+				},
+				{
+					"type": "image",
+					"src": "https://41.media.tumblr.com/9de0040290c2e25c58618457696f75f2/tumblr_nm0omjDxZp1urakpmo6_1280.jpg",
+					"caption": ""
+				},
+				{
+					"type": "image",
+					"src": "https://41.media.tumblr.com/9da8d88b81cc2b76ea43358c7c3590c3/tumblr_nm0omjDxZp1urakpmo7_1280.jpg",
+					"caption": ""
+				},
+			]
 	}
 }
