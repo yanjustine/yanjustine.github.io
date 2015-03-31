@@ -42,8 +42,10 @@ $(document).ready(function(){
 		},
 
 		init: function(){
-			app.showContents("left");
-			app.showContents("right");
+			var leftKeys = Object.keys(content["left"]);
+			var rightKeys = Object.keys(content["right"]);
+			app.showProject("left", leftKeys[ parseInt(Math.random() * leftKeys.length)], 0);
+			app.showProject("right", rightKeys[ parseInt(Math.random() * rightKeys.length)], 0);
 		}
 	};
 
