@@ -27,7 +27,6 @@ body {
 	min-height: 700px;
 	margin: 0px;
 	position: absolute;
-
 }
 
 .container {
@@ -39,7 +38,6 @@ body {
 	width: 49%;
 	padding: 6px 45px 6px 45px;
 	box-sizing: border-box;
-
 }
 
 h1 {
@@ -57,7 +55,6 @@ h3 {
 h4 {
 	margin-top: 0px;
 	margin-bottom: 15px;
-
 }
 
 a {
@@ -66,15 +63,10 @@ a {
 	color: inherit;
 }
 
-
 a:hover {
 	color: rgb(195, 181, 146);
 }
 
-
-p {
-	margin-left: 40px;
-}
 
 .image {
 	width: 100%;
@@ -111,16 +103,15 @@ p {
 	width: 100%;
 }
 
-
 iframe {
 	border: 10px solid #eee;
+	margin-top: 50px;
 }
 
 .caption {
 	float: right;
 	margin-top: 10px;
 	font-family: DIN-Light;
-
 }
 
 .project {
@@ -143,10 +134,13 @@ iframe {
 }
 
 #right-back {
-		font-style: italic;
-
+	font-style: italic;
 	font-family: DIN-Light;
 	float: left;
 	cursor: pointer;
+}
 
+.fa {
+	font-size: 85%;
+	vertical-align: center;
 }

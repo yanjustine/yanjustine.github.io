@@ -23,13 +23,11 @@ $(document).ready(function(){
 				project += "<iframe width='560' height='315' src='" + content[side][title][index]["src"]  + "?showinfo=0&modestbranding=1&vq=hd720' frameborder='0' allowfullscreen></iframe>";
 				project += "<h5 class='caption'>" + content[side][title][index]["caption"] + "<h5>";
 			} else if (type == "image") {
-				// image
 				project += "<div class='image'><img src='" + content[side][title][index]["src"] + "'></div>";
-				project += "<h5 class='caption'>" + content[side][title][index]["caption"] + "<h5><br>";
+				project += "<h5 class='caption'><a target='_blank' href='" + content[side][title][index]["src"] + "'>" + content[side][title][index]["caption"] + " &nbsp;<i class='fa fa-expand'></i></a><h5><br>";
 			} else if (type == "link"){
 				project += "<div class='image'><img src='" + content[side][title][index]["preview"] + "'></div>";
 				project += "<h5 class='download-link'><a target='_blank' href='" + content[side][title][index]["src"] + "'>Download PDF</a></h5>";
-
 			}
 			$("#" + side).html(project);
 			$("#" +side + "-back").click(function(){
