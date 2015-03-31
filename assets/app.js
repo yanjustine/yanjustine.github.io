@@ -3,7 +3,7 @@ $(document).ready(function(){
 	var app = {
 
 		showContents: function(side){
-			$("#" + side).html("");
+			$("#" + side).html("<br><br>");
 			for(var title in content[side]){
 				$("#" + side).append("<h3><a class='title'>" + title + "</a></h3>");
 			}
@@ -15,7 +15,8 @@ $(document).ready(function(){
 
 		showProject: function(side, title, index){
 			var project = "";
-			project += "<h5 id='" + side + "-back'><a>Back</a></h5>";
+			var menu = side == "left" ? "Texts" : "Images";
+			project += "<h4 id='" + side + "-back'><a><-" + menu +"</a></h4>";
 			project += "<h4 class='project'>" + title+ "</h4>";
 			var type = content[side][title][index]["type"];
 			if(type == "video"){
@@ -24,9 +25,11 @@ $(document).ready(function(){
 			} else if (type == "image") {
 				// image
 				project += "<div class='image'><img src='" + content[side][title][index]["src"] + "'></div>";
-				project += "<h5 class='caption'>" + content[side][title][index]["caption"] + "<h5>";
+				project += "<h5 class='caption'>" + content[side][title][index]["caption"] + "<h5><br>";
 			} else if (type == "link"){
-				project += "<br><br><h5 style='font-style: italic;'><a target='_blank' href='" + content[side][title][index]["src"] + "'>Download PDF</a></h5>";
+				project += "<div class='image'><img src='" + content[side][title][index]["preview"] + "'></div>";
+				project += "<h5 class='download-link'><a target='_blank' href='" + content[side][title][index]["src"] + "'>Download PDF</a></h5>";
+
 			}
 			$("#" + side).html(project);
 			$("#" +side + "-back").click(function(){
